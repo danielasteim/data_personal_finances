@@ -1,0 +1,8 @@
+# Sensitive data
+data/raw/*
+data/processed/*
+
+# Temporary files
+*.log
+*.tmp
+
