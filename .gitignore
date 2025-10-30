@@ -1,8 +1,5 @@
-# Sensitive data
-data/raw/*
-data/processed/*
-venv/*
+
 # Temporary files
 *.log
 *.tmp
-
+ps.txt

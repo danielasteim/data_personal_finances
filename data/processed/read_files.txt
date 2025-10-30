@@ -1,0 +1,15 @@
+data/raw\Fatura2025-09-05.pdf
+data/raw\Fatura2025-10-05.pdf
+data/raw\Fatura2025-11-05.pdf
+data/raw\Fatura2024-09-05.pdf
+data/raw\Fatura2024-10-05.pdf
+data/raw\Fatura2024-11-05.pdf
+data/raw\Fatura2024-12-05.pdf
+data/raw\Fatura2025-01-05.pdf
+data/raw\Fatura2025-02-05.pdf
+data/raw\Fatura2025-03-05.pdf
+data/raw\Fatura2025-04-05.pdf
+data/raw\Fatura2025-05-05.pdf
+data/raw\Fatura2025-06-05.pdf
+data/raw\Fatura2025-07-05.pdf
+data/raw\Fatura2025-08-05.pdf
