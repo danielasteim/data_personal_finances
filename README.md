@@ -1,20 +1,22 @@
-PERSONAL FINANCES PIPELINE
-
-This personal project aims to automate my credit card PDF montly bills into data, including classification of spending categories with machine learning, preparing the data to be used in interactive dashboards. 
+Pipeline automatizada de análise de gastos financeiros, que coleta faturas em PDF, extrai transações, classifica gastos com Machine Learning supervisionado, solicita validação humana quando necessário, armazena dados históricos em banco de dados e gera um dataset pronto para análise no Power BI.
 
 
-## USED TECNOLOGIES
-- **Python** (pandas, scikit-learn, pdfplumber)
-- **Power BI** / **Tableau**
-- **Git + GitHub**
+## PASSOS DO PROJETO
+- **Linguagem:** Python
+- **Ingestão:** Faturas bancárias baixadas diretamente do gmail
+- **Extração:** PDFPLUMBER para extrair os dados do PDF, sendo ajustavél para diferentes layouts de diferentes bancos, linhas quebradas, e formatações irregulares
+- **Transformação e Limpeza:** pandas e numpy para padronizar os dados
+- **Banco de Dados:** PostgreSQL para armazenar as transições
+- **Classificação supervisionada:** scikitlearn e joblib para treinar modelo de predição para automatizar a classificação das categorias 
+- **Orquestração:** Apache Airflow
+- **Análise e VIsualização:** PowerBI
 
 ## HOW TO RUN
 ```bash
-git clone https://github.com/SEU_USUARIO/financas-pessoais-pipeline.git
+git clone https://github.com/danielasteim/financas-pessoais-pipeline.git
 cd pipeline-personal-finances
 python -m venv venv
 venv\Scripts\activate
-pip install -r requirements.txt
 python main.py ```
 
 ## DASHBOARDS VISUALIZATIONS
