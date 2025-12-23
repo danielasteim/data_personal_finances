@@ -3,3 +3,5 @@
 *.log
 *.tmp
 ps.txt
+credentials.json
+token.pickle
