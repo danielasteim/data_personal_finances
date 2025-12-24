@@ -1,0 +1,571 @@
+FILE: data/raw/9180716-Xp-05-12-2025.pdf
+================================================================================
+
+
+--- PAGE 1 ---
+
+[TEXT EXTRACT]
+Olá, DANIELA! Chegou sua fatura
+com vencimento em Dezembro
+no valor de R$ 418,90
+Vencimento Pagamento total Pagamento mínimo
+05/12/2025 R$ 418,90 R$ 62,84
+Parcelamento
+Separamos algumas opções de pagamento parcelado da sua fatura, escolha a opção que encaixa melhor no seu momento e pague o valor exato até a data de
+vencimento, utilizando o mesmo boleto, ou por meio do App XP. Vale lembrar que todo parcelamento é composto por juros e impostos, você pode encontrar mais
+informações sobre encargos na sua fatura ou no aplicativo.
+2x R$ 219,13 8x R$ 70,27 14x R$ 50,40
+Total de 438,26 Total de 562,16 Total de 705,60
+Entre no seu aplicativo para encontrar outras opções de pagamento, veja como é simples acessar:
+Vá para o fim da tela e encontre
+1 Acesse seu cartão no aplicativo 2 Encontre a seção Fatura atual e 3 a opção Outras opções de
+XP toque em Pagar fatura
+parcelamento.
+Seu Boleto
+033-7 03399.39795 91100.901841 49590.901010 5 12860000041890
+Local de Pagamento Vencimento
+PAGÁVEL EM QUALQUER BANCO 05/12/2025
+Beneficiário Agência / Código Beneficiário
+Banco XP S.A. - CNPJ: 33.264.668/0001-03 002271/3979911
+Data do Documento Número do Documento Espécie doc Data Processamento Aceite Carteira/Nosso Número
+28/11/2025 9018449590 DM 26/11/2025 N 101/0000000090184495909
+Uso do Banco Carteira Espécie Moeda Quantidade de Moeda Valor (=) Valor do Documento
+101 R$ 418,90
+(-) Descontos/Abatimento
+(+) Juros/Multa
+Instruções (Texto de responsabilidade do Beneficiário)
+REALIZAR O PAGAMENTO ATÉ A DATA DE VENCIMENTO. (+) Outros Acréscimos
+(=) Valor Cobrado
+DANIELA DE SA STEIM CPF/CNPJ: 11659952980
+Pagador:Rua Guarani 4541
+85902525 Vila Becker - Toledo - PR
+Autenticação Mecânica - Ficha de compensação
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Você encontra todos os detalhes da sua fatura no seu aplicativo
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+ou nas próximas paginas :)
+
+[TABLES FOUND]: 2
+
+Table 1:
+ | 
+Olá, DANIELA! Chegou sua fatura
+com vencimento em Dezembro
+no valor de R$ 418,90
+Vencimento Pagamento total Pagamento mínimo
+05/12/2025 R$ 418,90 R$ 62,84
+Parcelamento
+Separamos algumas opções de pagamento parcelado da sua fatura, escolha a opção que encaixa melhor no seu momento e pague o valor exato até a data de
+vencimento, utilizando o mesmo boleto, ou por meio do App XP. Vale lembrar que todo parcelamento é composto por juros e impostos, você pode encontrar mais
+informações sobre encargos na sua fatura ou no aplicativo.
+2x R$ 219,13 8x R$ 70,27 14x R$ 50,40
+Total de 438,26 Total de 562,16 Total de 705,60
+Entre no seu aplicativo para encontrar outras opções de pagamento, veja como é simples acessar:
+Vá para o fim da tela e encontre
+1 Acesse seu cartão no aplicativo 2 Encontre a seção Fatura atual e 3 a opção Outras opções de
+XP toque em Pagar fatura
+parcelamento.
+Seu Boleto
+033-7 03399.39795 91100.901841 49590.901010 5 12860000041890
+Local de Pagamento Vencimento
+PAGÁVEL EM QUALQUER BANCO 05/12/2025
+Beneficiário Agência / Código Beneficiário
+Banco XP S.A. - CNPJ: 33.264.668/0001-03 002271/3979911
+Data do Documento Número do Documento Espécie doc Data Processamento Aceite Carteira/Nosso Número
+28/11/2025 9018449590 DM 26/11/2025 N 101/0000000090184495909
+Uso do Banco Carteira Espécie Moeda Quantidade de Moeda Valor (=) Valor do Documento
+101 R$ 418,90
+(-) Descontos/Abatimento
+(+) Juros/Multa
+Instruções (Texto de responsabilidade do Beneficiário)
+REALIZAR O PAGAMENTO ATÉ A DATA DE VENCIMENTO. (+) Outros Acréscimos
+(=) Valor Cobrado
+DANIELA DE SA STEIM CPF/CNPJ: 11659952980
+Pagador:Rua Guarani 4541
+85902525 Vila Becker - Toledo - PR
+Autenticação Mecânica - Ficha de compensação
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Você encontra todos os detalhes da sua fatura no seu aplicativo
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+ou nas próximas paginas :) | None
+
+Table 2:
+None | None | None | Vencimento | None
+None | None | None | 05/12/2025 | None
+None | None | None |  | None
+Beneficiário
+Banco XP S.A. - CNPJ: 33.264.668/0001-03 | None | None | Agência / Código Beneficiário
+002271/3979911 | None
+Data do Documento Número do Docum
+28/11/2025 901844959 | ento Espécie doc Data Processamento
+0 DM 26/11/2025 | Aceite
+N | Carteira/Nosso Número
+101/0000000090184495909 | None
+Uso do Banco Carteira E
+101 | spécie Moeda Quantidade de Moeda
+R$ | Valor | (=) Valor do Documento | 
+None | None | None | 418,90 | None
+Instruções (Texto de responsabilidade do Beneficiário)
+REALIZAR O PAGAMENTO ATÉ A DATA DE VENCIMENTO. | None | None | (-) Descontos/Abatimento | None
+None | None | None | (+) Juros/Multa | None
+None | None | None | (+) Outros Acréscimos | None
+None | None | None | (=) Valor Cobrado | None
+
+
+--- PAGE 2 ---
+
+[TEXT EXTRACT]
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+[TABLES FOUND]: 1
+
+Table 1:
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+
+
+--- PAGE 3 ---
+
+[TEXT EXTRACT]
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Resumo da sua fatura Cartão XP Visa Infinite One R$
+Total da fatura anterior 370,73
+Pagamentos/créditos até a emissão da fatura -370,73
+Saldo financiado ou Saldo credor 0,00
+Despesas até a emissão desta fatura 418,90
+Valor total devido 418,90
+Fatura fechada em Próximo fechamento Melhor dia de compra
+27/11/2025 23/12/2025 24/12/2025
+Limite de crédito R$
+Limite total de crédito 2.000,00
+Limite utilizado 431,85
+DANIELA S STEIM - 4998********2715
+Data Descrição R$ US$
+28/10/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+29/10/25 PRIMATO 13,48 0,00
+29/10/25 PEDRO GIORDANI REFEICOE 2,50 0,00
+30/10/25 DOM ANGELO RESTAURANTE 17,80 0,00
+31/10/25 UBER* TRIP 22,76 0,00
+31/10/25 PEDRO GIORDANI REFEICOE 13,00 0,00
+31/10/25 MARY E MARGA PANIFICAD 7,00 0,00
+02/11/25 FARMACIA E DROGARIA NIS 24,90 0,00
+02/11/25 BUYBYE 11,06 0,00
+03/11/25 PRIMATO 1,29 0,00
+03/11/25 PRIMATO 4,16 0,00
+04/11/25 PEDRO GIORDANI REFEICOE 8,50 0,00
+04/11/25 PRIMATO 11,06 0,00
+05/11/25 ZEROHORABEBIDAS 3,50 0,00
+05/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+Subtotal 418,90
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+[TABLES FOUND]: 4
+
+Table 1:
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Resumo da sua fatura Cartão XP Visa Infinite One R$
+Total da fatura anterior 370,73
+Pagamentos/créditos até a emissão da fatura -370,73
+Saldo financiado ou Saldo credor 0,00
+Despesas até a emissão desta fatura 418,90
+Valor total devido 418,90
+Fatura fechada em Próximo fechamento Melhor dia de compra
+27/11/2025 23/12/2025 24/12/2025
+Limite de crédito R$
+Limite total de crédito 2.000,00
+Limite utilizado 431,85
+DANIELA S STEIM - 4998********2715
+Data Descrição R$ US$
+28/10/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+29/10/25 PRIMATO 13,48 0,00
+29/10/25 PEDRO GIORDANI REFEICOE 2,50 0,00
+30/10/25 DOM ANGELO RESTAURANTE 17,80 0,00
+31/10/25 UBER* TRIP 22,76 0,00
+31/10/25 PEDRO GIORDANI REFEICOE 13,00 0,00
+31/10/25 MARY E MARGA PANIFICAD 7,00 0,00
+02/11/25 FARMACIA E DROGARIA NIS 24,90 0,00
+02/11/25 BUYBYE 11,06 0,00
+03/11/25 PRIMATO 1,29 0,00
+03/11/25 PRIMATO 4,16 0,00
+04/11/25 PEDRO GIORDANI REFEICOE 8,50 0,00
+04/11/25 PRIMATO 11,06 0,00
+05/11/25 ZEROHORABEBIDAS 3,50 0,00
+05/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+Subtotal 418,90
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+
+Table 2:
+Total da fatura anterior | 370,73
+Pagamentos/créditos até a emissão da fatura | -370,73
+Saldo financiado ou Saldo credor | 0,00
+Despesas até a emissão desta fatura | 418,90
+Valor total devido | 418,90
+
+Table 3:
+Limite total de crédito | 2.000,00
+Limite utilizado | 431,85
+
+Table 4:
+Data | Descrição | R$ | US$
+28/10/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+29/10/25 | PRIMATO | 13,48 | 0,00
+29/10/25 | PEDRO GIORDANI REFEICOE | 2,50 | 0,00
+30/10/25 | DOM ANGELO RESTAURANTE | 17,80 | 0,00
+31/10/25 | UBER* TRIP | 22,76 | 0,00
+31/10/25 | PEDRO GIORDANI REFEICOE | 13,00 | 0,00
+31/10/25 | MARY E MARGA PANIFICAD | 7,00 | 0,00
+02/11/25 | FARMACIA E DROGARIA NIS | 24,90 | 0,00
+02/11/25 | BUYBYE | 11,06 | 0,00
+03/11/25 | PRIMATO | 1,29 | 0,00
+03/11/25 | PRIMATO | 4,16 | 0,00
+04/11/25 | PEDRO GIORDANI REFEICOE | 8,50 | 0,00
+04/11/25 | PRIMATO | 11,06 | 0,00
+05/11/25 | ZEROHORABEBIDAS | 3,50 | 0,00
+05/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+Subtotal |  | 418,90 | 
+
+
+--- PAGE 4 ---
+
+[TEXT EXTRACT]
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Data Descrição R$ US$
+05/11/25 PEDRO GIORDANI REFEICOE 1,00 0,00
+05/11/25 99* 10,00 0,00
+05/11/25 55.453.830 DILMA MIRANDA 7,00 0,00
+06/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+06/11/25 JIM.COM* GRAFICA RAPIDA 12,75 0,00
+07/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+07/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+09/11/25 GELA BOCA LAGO 3,50 0,00
+10/11/25 PAGTEL*CORREIOS CEL 30,00 0,00
+10/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+10/11/25 PRIMATO 18,23 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 2,75 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 7,50 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+11/11/25 PRIMATO 18,99 0,00
+11/11/25 PRIMATO TOLEDO PANCERA 2,50 0,00
+13/11/25 568 REFEICOES 3,50 0,00
+13/11/25 PEDRO GIORDANI REFEICOE 2,00 0,00
+13/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 2,50 0,00
+15/11/25 PARIGOT 4,71 0,00
+15/11/25 ROSSI & ALVES LTDA 18,75 0,00
+16/11/25 SUBWAY 18,90 0,00
+16/11/25 PRIMATO 22,27 0,00
+17/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+17/11/25 PEDRO GIORDANI REFEICOE 2,00 0,00
+18/11/25 PEDRO GIORDANI REFEICOE 1,00 0,00
+22/11/25 PAGTEL*CORREIOS CEL 30,00 0,00
+25/11/25 PRIMATO 5,25 0,00
+26/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+26/11/25 PRIMATO 1,29 0,00
+Subtotal 418,90
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+[TABLES FOUND]: 2
+
+Table 1:
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Data Descrição R$ US$
+05/11/25 PEDRO GIORDANI REFEICOE 1,00 0,00
+05/11/25 99* 10,00 0,00
+05/11/25 55.453.830 DILMA MIRANDA 7,00 0,00
+06/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+06/11/25 JIM.COM* GRAFICA RAPIDA 12,75 0,00
+07/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+07/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+09/11/25 GELA BOCA LAGO 3,50 0,00
+10/11/25 PAGTEL*CORREIOS CEL 30,00 0,00
+10/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+10/11/25 PRIMATO 18,23 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 2,75 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 7,50 0,00
+11/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+11/11/25 PRIMATO 18,99 0,00
+11/11/25 PRIMATO TOLEDO PANCERA 2,50 0,00
+13/11/25 568 REFEICOES 3,50 0,00
+13/11/25 PEDRO GIORDANI REFEICOE 2,00 0,00
+13/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 5,00 0,00
+14/11/25 PEDRO GIORDANI REFEICOE 2,50 0,00
+15/11/25 PARIGOT 4,71 0,00
+15/11/25 ROSSI & ALVES LTDA 18,75 0,00
+16/11/25 SUBWAY 18,90 0,00
+16/11/25 PRIMATO 22,27 0,00
+17/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+17/11/25 PEDRO GIORDANI REFEICOE 2,00 0,00
+18/11/25 PEDRO GIORDANI REFEICOE 1,00 0,00
+22/11/25 PAGTEL*CORREIOS CEL 30,00 0,00
+25/11/25 PRIMATO 5,25 0,00
+26/11/25 PEDRO GIORDANI REFEICOE 3,50 0,00
+26/11/25 PRIMATO 1,29 0,00
+Subtotal 418,90
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+
+Table 2:
+Data | Descrição | R$ | US$
+05/11/25 | PEDRO GIORDANI REFEICOE | 1,00 | 0,00
+05/11/25 | 99* | 10,00 | 0,00
+05/11/25 | 55.453.830 DILMA MIRANDA | 7,00 | 0,00
+06/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+06/11/25 | JIM.COM* GRAFICA RAPIDA | 12,75 | 0,00
+07/11/25 | PEDRO GIORDANI REFEICOE | 5,00 | 0,00
+07/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+09/11/25 | GELA BOCA LAGO | 3,50 | 0,00
+10/11/25 | PAGTEL*CORREIOS CEL | 30,00 | 0,00
+10/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+10/11/25 | PRIMATO | 18,23 | 0,00
+11/11/25 | PEDRO GIORDANI REFEICOE | 2,75 | 0,00
+11/11/25 | PEDRO GIORDANI REFEICOE | 7,50 | 0,00
+11/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+11/11/25 | PRIMATO | 18,99 | 0,00
+11/11/25 | PRIMATO TOLEDO PANCERA | 2,50 | 0,00
+13/11/25 | 568 REFEICOES | 3,50 | 0,00
+13/11/25 | PEDRO GIORDANI REFEICOE | 2,00 | 0,00
+13/11/25 | PEDRO GIORDANI REFEICOE | 5,00 | 0,00
+14/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+14/11/25 | PEDRO GIORDANI REFEICOE | 5,00 | 0,00
+14/11/25 | PEDRO GIORDANI REFEICOE | 5,00 | 0,00
+14/11/25 | PEDRO GIORDANI REFEICOE | 2,50 | 0,00
+15/11/25 | PARIGOT | 4,71 | 0,00
+15/11/25 | ROSSI & ALVES LTDA | 18,75 | 0,00
+16/11/25 | SUBWAY | 18,90 | 0,00
+16/11/25 | PRIMATO | 22,27 | 0,00
+17/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+17/11/25 | PEDRO GIORDANI REFEICOE | 2,00 | 0,00
+18/11/25 | PEDRO GIORDANI REFEICOE | 1,00 | 0,00
+22/11/25 | PAGTEL*CORREIOS CEL | 30,00 | 0,00
+25/11/25 | PRIMATO | 5,25 | 0,00
+26/11/25 | PEDRO GIORDANI REFEICOE | 3,50 | 0,00
+26/11/25 | PRIMATO | 1,29 | 0,00
+Subtotal |  | 418,90 | 
+
+
+--- PAGE 5 ---
+
+[TEXT EXTRACT]
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+DANIELA S STEIM - 4998********5180
+Data Descrição R$ US$
+01/11/25 Pagamento de fatura -370,73
+Subtotal 0,00
+As informações deste demonstrativo são apresentadas de acordo com a regulamentação vigente do Banco Central do Brasil.
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
++ 55 11 4003-3710 (Capitais e regiões metropolitanas) 0800-772-0202 (SAC - Dúvidas, Reclamações e Orientações)
+0800-880-3710 (Demais localidades) 0800-722-3730 (Se não estiver satisfeito)
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+[TABLES FOUND]: 3
+
+Table 1:
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+DANIELA S STEIM - 4998********5180
+Data Descrição R$ US$
+01/11/25 Pagamento de fatura -370,73
+Subtotal 0,00
+As informações deste demonstrativo são apresentadas de acordo com a regulamentação vigente do Banco Central do Brasil.
+
+
+Table 2:
+Data | Descrição | R$ | US$
+01/11/25 | Pagamento de fatura | -370,73 | 
+Subtotal |  | 0,00 | 
+
+Table 3:
+
+
+
+
+--- PAGE 6 ---
+
+[TEXT EXTRACT]
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Encargos da fatura
+Importante: a partir da próxima fatura algumas taxas do cartão sofrerão atualizações. Confira:
+Se eu deixar de pagar, atrasar ou pagar menos que o Se eu pagar um valor igual ou maior que o valor mínimo
+valor mínimo da minha fatura da fatura
+Caso você deixe de pagar, atrase ou pague montante menor ao valor mínimo da fatura, serão Caso você realize um pagamento em valor igual ou maior ao mínimo da fatura, porém, menor
+cobrados juros, encargos e tributos sobre o valor em aberto na sua próxima fatura. que o valor total, haverá cobrança de juros e demais encargos aplicáveis. Neste caso você
+estará contratando um crédito rotativo. O valor pago deverá ser diferente de uma das opções
+Juros de rotativo atraso 11,99% ao mês 11,99% ao mês de parcelamento de fatura.
+Juros de rotativo 11,99% ao mês 11,99% ao mês
+Juros de mora 1,00% ao mês 1,00% ao mês
+CET 12,62% ao mês / 12,62% ao mês /
+2,00% do valor não 2,00% do valor não
+Multa de mora (Custo Efetivo Total) 316,10% ao ano 316,10% ao ano
+pago pago
+0,38% 0,38%
+0,38% 0,38% IOF
+IOF + (0,0082% ao dia) + (0,0082% ao dia)
++ (0,0082% ao dia) + (0,0082% ao dia)
+Lembre-se: É importante que você avalie se esta contratação faz sentido com a sua
+situação financeira, uma vez que costuma ser destinado a emergências, para uso de curto
+Se eu optar pelo parcelamento do valor total desta prazo, com taxas maiores que as demais modalidades de crédito
+fatura
+Caso você pague o valor exato de uma das opções disponibilizadas a você para o Se eu não conseguir pagar novamente o que devo no
+parcelamento de fatura, serão cobrados juros, encargos e tributos sobre o valor total da fatura
+a partir da primeira parcela e até que haja o pagamento integral do saldo devedor. rotativo
+Juros de parcelamento de fatura 10,99% ao mês 7,99% ao mês Caso você já tenha contratado o crédito rotativo no mês anterior, mas não consiga pagar, este
+saldo devedor será financiado por meio de um crédito parcelado. Nesta modalidade, são
+cobrados juros, encargos e tributos na próxima fatura.
+CET 11,62% ao mês / 8,62% ao mês /
+(Custo Efetivo Total) + (273,87% ao ano) + (169,60% ao ano) Juros do crédito parcelado 11,95% ao mês 11,95% ao mês
+0,38% 0,38%
+IOF CET 12,58% ao mês / 12,58% ao mês /
++ (0,0082% ao dia) + (0,0082% ao dia)
+(Custo Efetivo Total) 314,33% ao ano 314,33% ao ano
+0,38% 0,38%
+IOF
++ (0,0082% ao dia) + (0,0082% ao dia)
+Demais cobranças
+Caso você realize qualquer uma das transações abaixo, incidirão os custos, juros e/ou tributos,
+de acordo com os percentuais abaixo:
+Se eu realizar uma compra parcelada com juros
+R$ 15,00 R$ 15,00
+Saque crédito nacional + 4,12% ao mês + IOF + 4,12% ao mês + IOF Caso você tenha realizado uma compra parcelada com juros junto à XP, incidirão os juros,
+encargos e tributos, de acordo com os percentuais abaixo:
+R$ 25,00 R$ 25,00
+Saque crédito internacional + 4,12% ao mês + IOF + 4,12% ao mês + IOF Juros do crédito parcelado 10,99% ao mês 7,99% ao mês
+CET Tarifa de saque + Tarifa de saque + CET 11,62% ao mês / 8,62% ao mês /
+(Custo Efetivo Total) mensal 4,75% ao mês 4,75% ao mês (Custo Efetivo Total) 273,87% ao ano 169,60% ao ano
+CET Tarifa de saque + Tarifa de saque + 0,38% 0,38%
+IOF
+(Custo Efetivo Total) anual 74,44% ao ano 74,44% ao ano + (0,0082% ao dia) + (0,0082% ao dia)
+Conversão por Uso
+6% + IOF 6% + IOF
+Internacional do Cartão
+Parcelamento de fatura
+Emissão do cartão R$ 0 R$ 0
+Caso você tenha contratado um parcelamento de fatura e deseja liquidar antecipadamente
+sua divida com redução de juros.
+Emissão de até 6
+R$ 0 R$ 0
+cartões adicionais Auto atendimento + 55 11 4935-2720
+Anuidade R$ 0 R$ 0 Capitais e regiões metropolitanas + 55 11 4003-3710
+Segunda via do cartão R$ 0 R$ 450,00 Demais localidades 0800-880-3710
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
+++ 5555 1111 44903053--23772100 ((CAauptoit aatise en dreimgieõnetso m vieat WrohpaotlsitAapnpa)s) 00880000--777712--00120012 ( D(SeAfiCci -e nDtúevsi daausd,i tRiveocsla omua dçeõ feasl ae) Orientações)
+0+8 5050 1-18 48000-337-3107 1(D0 e(Cmaapisit aloisc eal rideagdiõeess) metropolitanas) 00880000--777222--03270320 ((SSAe Cnã -o D eúsvtiidvaesr, s Raeticslfaemitoa)ções e Orientações)
+0800-880-3710 (Demais localidades) 0H8o0rá0r-i7o2 d2e-3 a7t3en0d (Simee nnãtoo :e Ssteigveurn sdaat ais sfeeixtota)-feira das 09 às 18h
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+
+[TABLES FOUND]: 1
+
+Table 1:
+Titular Endereço Vencimento
+Rua Guarani 4541,
+DANIELA DE SA STEIM 85902525 Vila Becker - Toledo - PR 05/12/2025
+Encargos da fatura
+Importante: a partir da próxima fatura algumas taxas do cartão sofrerão atualizações. Confira:
+Se eu deixar de pagar, atrasar ou pagar menos que o Se eu pagar um valor igual ou maior que o valor mínimo
+valor mínimo da minha fatura da fatura
+Caso você deixe de pagar, atrase ou pague montante menor ao valor mínimo da fatura, serão Caso você realize um pagamento em valor igual ou maior ao mínimo da fatura, porém, menor
+cobrados juros, encargos e tributos sobre o valor em aberto na sua próxima fatura. que o valor total, haverá cobrança de juros e demais encargos aplicáveis. Neste caso você
+estará contratando um crédito rotativo. O valor pago deverá ser diferente de uma das opções
+Juros de rotativo atraso 11,99% ao mês 11,99% ao mês de parcelamento de fatura.
+Juros de rotativo 11,99% ao mês 11,99% ao mês
+Juros de mora 1,00% ao mês 1,00% ao mês
+CET 12,62% ao mês / 12,62% ao mês /
+2,00% do valor não 2,00% do valor não
+Multa de mora (Custo Efetivo Total) 316,10% ao ano 316,10% ao ano
+pago pago
+0,38% 0,38%
+0,38% 0,38% IOF
+IOF + (0,0082% ao dia) + (0,0082% ao dia)
++ (0,0082% ao dia) + (0,0082% ao dia)
+Lembre-se: É importante que você avalie se esta contratação faz sentido com a sua
+situação financeira, uma vez que costuma ser destinado a emergências, para uso de curto
+Se eu optar pelo parcelamento do valor total desta prazo, com taxas maiores que as demais modalidades de crédito
+fatura
+Caso você pague o valor exato de uma das opções disponibilizadas a você para o Se eu não conseguir pagar novamente o que devo no
+parcelamento de fatura, serão cobrados juros, encargos e tributos sobre o valor total da fatura
+a partir da primeira parcela e até que haja o pagamento integral do saldo devedor. rotativo
+Juros de parcelamento de fatura 10,99% ao mês 7,99% ao mês Caso você já tenha contratado o crédito rotativo no mês anterior, mas não consiga pagar, este
+saldo devedor será financiado por meio de um crédito parcelado. Nesta modalidade, são
+cobrados juros, encargos e tributos na próxima fatura.
+CET 11,62% ao mês / 8,62% ao mês /
+(Custo Efetivo Total) + (273,87% ao ano) + (169,60% ao ano) Juros do crédito parcelado 11,95% ao mês 11,95% ao mês
+0,38% 0,38%
+IOF CET 12,58% ao mês / 12,58% ao mês /
++ (0,0082% ao dia) + (0,0082% ao dia)
+(Custo Efetivo Total) 314,33% ao ano 314,33% ao ano
+0,38% 0,38%
+IOF
++ (0,0082% ao dia) + (0,0082% ao dia)
+Demais cobranças
+Caso você realize qualquer uma das transações abaixo, incidirão os custos, juros e/ou tributos,
+de acordo com os percentuais abaixo:
+Se eu realizar uma compra parcelada com juros
+R$ 15,00 R$ 15,00
+Saque crédito nacional + 4,12% ao mês + IOF + 4,12% ao mês + IOF Caso você tenha realizado uma compra parcelada com juros junto à XP, incidirão os juros,
+encargos e tributos, de acordo com os percentuais abaixo:
+R$ 25,00 R$ 25,00
+Saque crédito internacional + 4,12% ao mês + IOF + 4,12% ao mês + IOF Juros do crédito parcelado 10,99% ao mês 7,99% ao mês
+CET Tarifa de saque + Tarifa de saque + CET 11,62% ao mês / 8,62% ao mês /
+(Custo Efetivo Total) mensal 4,75% ao mês 4,75% ao mês (Custo Efetivo Total) 273,87% ao ano 169,60% ao ano
+CET Tarifa de saque + Tarifa de saque + 0,38% 0,38%
+IOF
+(Custo Efetivo Total) anual 74,44% ao ano 74,44% ao ano + (0,0082% ao dia) + (0,0082% ao dia)
+Conversão por Uso
+6% + IOF 6% + IOF
+Internacional do Cartão
+Parcelamento de fatura
+Emissão do cartão R$ 0 R$ 0
+Caso você tenha contratado um parcelamento de fatura e deseja liquidar antecipadamente
+sua divida com redução de juros.
+Emissão de até 6
+R$ 0 R$ 0
+cartões adicionais Auto atendimento + 55 11 4935-2720
+Anuidade R$ 0 R$ 0 Capitais e regiões metropolitanas + 55 11 4003-3710
+Segunda via do cartão R$ 0 R$ 450,00 Demais localidades 0800-880-3710
++ 55 11 4935-2720 (Auto atendimento via WhatsApp) 0800-771-0101 (Deficientes auditivos ou de fala)
+++ 5555 1111 44903053--23772100 ((CAauptoit aatise en dreimgieõnetso m vieat WrohpaotlsitAapnpa)s) 00880000--777712--00120012 ( D(SeAfiCci -e nDtúevsi daausd,i tRiveocsla omua dçeõ feasl ae) Orientações)
+0+8 5050 1-18 48000-337-3107 1(D0 e(Cmaapisit aloisc eal rideagdiõeess) metropolitanas) 00880000--777222--03270320 ((SSAe Cnã -o D eúsvtiidvaesr, s Raeticslfaemitoa)ções e Orientações)
+0800-880-3710 (Demais localidades) 0H8o0rá0r-i7o2 d2e-3 a7t3en0d (Simee nnãtoo :e Ssteigveurn sdaat ais sfeeixtota)-feira das 09 às 18h
+Horário de atendimento: Segunda a sexta-feira das 09 às 18h
+

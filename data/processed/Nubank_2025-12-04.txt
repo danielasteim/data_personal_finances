@@ -1,0 +1,86 @@
+FILE: data/raw/Nubank_2025-12-04.pdf
+================================================================================
+
+
+--- PAGE 1 ---
+
+[TEXT EXTRACT]
+Olá, Daniela.
+Esta é a sua fatura de
+dezembro, no valor de
+R$ 0,00
+Data de vencimento: 04 DEZ 2025
+Período vigente: 28 OUT a 27 NOV
+Limite total do cartão de crédito: R$ 5.700,00
+1 de 3
+
+[TABLES FOUND]: 0
+
+
+--- PAGE 2 ---
+
+[TEXT EXTRACT]
+DANIELA DE SÁ STEIM
+FATURA 04 DEZ 2025 EMISSÃO E ENVIO 27 NOV 2025
+RESUMO DA FATURA ATUAL
+Fatura anterior R$ 0,00
+Pagamento recebido −R$ 137,70
+Total de compras de todos os cartões, 28 OUT a 27 NOV R$ 137,70
+Total a pagar R$ 0,00
+O Nubank declara, nos termos da Lei 12.007 2009, que os débitos referentes ao cartão de crédito no ano de 2024
+foram devidamente quitados. Esta declaração substitui os comprovantes dos pagamentos dos anos anteriores, assim
+como, aqueles pagamentos realizados até a data de vencimento da fatura de dezembro de 2024.
+PRÓXIMAS FATURAS
+Fechamento da próxima fatura 28 DEZ 2025
+Saldo em aberto da próxima fatura R$ 0,00
+Saldo em aberto total R$ 0,00
+LIMITES DISPONÍVEIS
+Utilizado Disponível
+Limite total R$ 0,00 R$ 5.700,00
+VALOR MÁXIMO PARA TRANSAÇÕES
+Valor máximo
+Saque no crédito R$ 855,00
+Pix no crédito R$ 5.700,00
+Pagamentos de boleto no crédito R$ 5.700,00
+As informações de limite são referentes ao período desta fatura, especificamente na data de emissão da fatura (27/11/2025) às 03:21. Para
+informações atualizadas em tempo real, consulte o aplicativo do Nu. O valor do Limite Adicional não é fixo e pode variar de acordo com as nossas
+análises, podendo inclusive ser removido.
+2 de 3
+
+[TABLES FOUND]: 0
+
+
+--- PAGE 3 ---
+
+[TEXT EXTRACT]
+DANIELA DE SÁ STEIM
+FATURA 04 DEZ 2025 EMISSÃO E ENVIO 27 NOV 2025
+TRANSAÇÕES DE 28 OUT A 27 NOV
+Daniela De Sa Steim R$ 137,70
+30 OUT •••• 3111 Apple.Com/Bill R$ 11,90
+03 NOV •••• 5289 Iron Health la Salle R$ 119,90
+06 NOV •••• 3111 Apple.Com/Bill R$ 5,90
+Pagamentos e Financiamentos -R$ 137,70
+06 NOV Pagamento em 06 NOV −R$ 137,70
+04 NOV Saldo restante da fatura anterior R$ 0,00
+04 NOV Saldo restante da fatura anterior R$ 0,00
+Em cumprimento à regulação do Banco Central, as suas operações de crédito, estejam elas em dia ou atrasadas, serão comunicados ao Sistema
+de Informações de Créditos (SCR) e poderão ser consultadas no registrato, pelo Meu BC com sua Conta gov.br, que você pode acessar fazendo o
+login com sua conta Nubank.
+Como assegurado pela Resolução CMN n° 5.112 de 21/12/2023, o valor total cobrado a título de juros e encargos financeiros aplicados aos
+financiamentos de saldo devedor da fatura (rotativo, parcelamentos de fatura e renegociações de pendências) não deve exceder o valor original
+da dívida. Válido apenas para as operações realizadas a partir de 3 de Janeiro de 2024.
+3 de 3
+
+[TABLES FOUND]: 2
+
+Table 1:
+30 OUT •••• 3111 Apple.Com/Bill R$ 11,90
+03 NOV •••• 5289 Iron Health la Salle R$ 119,90
+06 NOV •••• 3111 Apple.Com/Bill R$ 5,90
+
+Table 2:
+06 NOV Pagamento em 06 NOV −R$ 137,70
+04 NOV Saldo restante da fatura anterior R$ 0,00
+04 NOV Saldo restante da fatura anterior R$ 0,00
+

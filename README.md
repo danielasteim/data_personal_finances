@@ -9,7 +9,7 @@ Pipeline automatizada de análise de gastos financeiros, que coleta faturas em P
 - **Banco de Dados:** PostgreSQL para armazenar as transições
 - **Classificação supervisionada:** scikitlearn e joblib para treinar modelo de predição para automatizar a classificação das categorias 
 - **Orquestração:** Apache Airflow
-- **Análise e VIsualização:** PowerBI
+- **Análise e Visualização:** PowerBI
 
 ## HOW TO RUN
 ```bash
