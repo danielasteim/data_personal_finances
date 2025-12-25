@@ -42,7 +42,7 @@ def extract_tables_from_pdf(file_path):
     return tables
 
 sys.path.append("src")
-from transformation.cleaner import clean_line
+from cleaner import clean_line
 
 def clean_pdf(file_path):
     raw_lines = extract_tables_from_pdf(file_path)
