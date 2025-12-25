@@ -3,7 +3,9 @@ Docstring for db
 """
 
 import psycopg2
+from psycopg2 import sql
 from psycopg2.extras import execute_batch
+import pandas as pd
 
 DB_CONFIG = {
     "host": "localhost",
@@ -114,3 +116,15 @@ def file_exists(file_name):
             (file_name,)
         )
         return cur.fetchone()
+
+
+def transfer_db_to_file(table_name, output_file):
+    query = str(sql.SQL("SELECT * FROM {}").format(
+        sql.Identifier(table_name)
+    ))
+
+    conn = connect_to_db()
+    df = pd.read_sql(query, conn)
+    conn.close()
+
+    df.to_excel(output_file, index=False)
