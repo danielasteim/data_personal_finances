@@ -3,12 +3,13 @@ Docstring for db
 """
 
 import psycopg2
+from psycopg2.extras import execute_batch
 
 DB_CONFIG = {
     "host": "localhost",
     "dbname": "finance_pipeline",
     "user": "finance_user",
-    "password": "",
+    "password": "finance_pass",
     "port": 5432
 }
 
@@ -17,8 +18,7 @@ def connect_to_db():
         connection = psycopg2.connect(**DB_CONFIG)
         return connection
     except psycopg2.Error as e:
-        print(f"Error connecting to database: {e}")
-        return None
+        raise RuntimeError(f"Error connecting to database: {e}") from e
 
 def initialize_db():
     connection = connect_to_db()
@@ -73,6 +73,7 @@ def insert_file(file_name, bank=None):
 def insert_transactions(file_id, transactions):
     with connect_to_db() as conn, conn.cursor() as cur:
         execute_batch(
+            cur,
             """
             INSERT INTO transactions (day, month, merchant, amount, file_id)
             VALUES (%s, %s, %s, %s, %s)
@@ -101,3 +102,15 @@ def mark_file_processed(file_id):
             """,
             (file_id,)
         )
+
+def file_exists(file_name):
+    with connect_to_db() as conn, conn.cursor() as cur:
+        cur.execute(
+            """
+            SELECT id, processed
+            FROM files
+            WHERE file_name = %s
+            """,
+            (file_name,)
+        )
+        return cur.fetchone()
