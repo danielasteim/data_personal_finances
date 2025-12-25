@@ -51,6 +51,7 @@ def download_attachments(service, message_id):
         userId='me',
         id=message_id
     ).execute()
+    file_names = []
 
     for part in message['payload'].get('parts', []):
         if part.get('filename') and part['filename'].lower().endswith('.pdf'):
@@ -64,11 +65,14 @@ def download_attachments(service, message_id):
 
             file_data = base64.urlsafe_b64decode(attachment['data'])
             file_path = os.path.join(ATTACHMENTS_DIR, part['filename'])
+            file_names.append(part['filename'])
 
             with open(file_path, 'wb') as f:
                 f.write(file_data)
 
             print(f"📄 Saved: {file_path}")
+            
+    return file_names
 
 # MARK EMAILS AS READ AFTER PROCESSING
 def mark_as_read(service, message_id):

@@ -41,6 +41,28 @@ def extract_tables_from_pdf(file_path):
     
     return tables
 
+# GET BANK NAME FROM FILE NAME
+def bank_name(file_name):
+
+    bank_keywords = {
+        "nubank": "Nubank",
+        "inter": "Banco Inter",
+        "c6": "C6 Bank",
+        "itau": "Itaú",
+        "bradesco": "Bradesco",
+        "santander": "Santander",
+        "bb": "Banco do Brasil",
+        "caixa": "Caixa Econômica",
+        "sicredi": "Sicredi",
+        "xp": "XP Investimentos"
+    }
+
+    file_name_lower = file_name.lower()
+    for keyword, bank in bank_keywords.items():
+        if keyword in file_name_lower:
+            return bank
+    return "Unknown"
+
 sys.path.append("src")
 from cleaner import clean_line
 

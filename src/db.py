@@ -58,7 +58,7 @@ def initialize_db():
         connection.close()
 
 def insert_file(file_name, bank=None):
-    with get_connection() as conn, conn.cursor() as cur:
+    with connect_to_db() as conn, conn.cursor() as cur:
         cur.execute(
             """
             INSERT INTO files (file_name, bank)
@@ -71,7 +71,7 @@ def insert_file(file_name, bank=None):
 
 
 def insert_transactions(file_id, transactions):
-    with get_connection() as conn, conn.cursor() as cur:
+    with connect_to_db() as conn, conn.cursor() as cur:
         execute_batch(
             """
             INSERT INTO transactions (day, month, merchant, amount, file_id)
@@ -91,7 +91,7 @@ def insert_transactions(file_id, transactions):
 
 
 def mark_file_processed(file_id):
-    with get_connection() as conn, conn.cursor() as cur:
+    with connect_to_db() as conn, conn.cursor() as cur:
         cur.execute(
             """
             UPDATE files
